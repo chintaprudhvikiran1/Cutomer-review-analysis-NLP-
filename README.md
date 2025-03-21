@@ -52,11 +52,11 @@ Automate the process of discovering key topics in customer feedback. This will h
 
 2. Represented sentiment distribution using visualizations based on:
 
-Topics
+         Topics
 
-Ratings
+         Ratings
 
-Overall sentiment (Positive, Negative, Neutral)
+         Overall sentiment (Positive, Negative, Neutral)
 
 ### 6. Model Evaluation
 
